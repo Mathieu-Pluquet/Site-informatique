@@ -43,32 +43,27 @@ section {
   width: 30%;
   margin: 1%;
   margin-right: 1em;
-  margin-top:5%
-
-
-}
-
-img {
-  display: inline-block;
-  width: 90%;
-  margin: 1em;
-
-}
-
-.image {
-  display: inline-block;
+  margin-top:10%
+  width: 100%;
   vertical-align: middle;
-
+  margin-top: 5em;
 }
-
-.photo {
-border-right: 10px;
-}
-
-
 
 /*footer*/
-.paye {
-  height: 10em;
+footer {
+  height: 5em;
   background-color: black;
+  color: white;
+  text-align: center;
+  display: inline-block;
+  vertical-align: middle;
+  margin: 1%;
+  width: 100%;
+
+}
+
+.paye{
+  display: inline-block;
+  margin-left: 5%;
+  margin-top: 1%;
 }
