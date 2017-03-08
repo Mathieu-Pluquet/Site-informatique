@@ -12,6 +12,7 @@ html, body {
 body {
 background-image: linear-gradient(to top, #0c3483 0%, #a2b6df 100%, #6b8cce 100%, #a2b6df 100%);
 display: table;
+width: 100%;
 }
 
 h1 {
@@ -23,9 +24,9 @@ nav {
   text-align: center;
   height: 10em;
   background-color:
-  width: 100%;
   margin-top: 1%;
   border: 5px solid black;
+  width: 100%;
 }
 
 .menu{
