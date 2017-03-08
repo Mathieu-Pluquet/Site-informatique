@@ -1,0 +1,58 @@
+/*limite les bords de la page */
+* {
+  margin: 0;
+  padding: 0;
+}
+
+
+h1 {
+  text-align: center;
+}
+/*menu du header*/
+nav {
+  vertical-align: middle;
+  text-align: center;
+  height: 10em;
+  background-color: red;
+  width: 100%;
+  margin-top: 1%;
+}
+
+.menu{
+  display: inline-block;
+  list-style-type: none;
+  margin-top: 5%;
+  font-size: 20px;
+  margin:5%;
+  margin-left: 6%;
+}
+/*section*/
+section {
+  height: 30em;
+  width: 100%;
+  background-color: blue;
+}
+/*bloc dans section*/
+.info, .smart, .photo {
+  display: inline-block;
+  background-color: grey;
+  margin-top: 1%;
+  margin-left: 0%;
+}
+
+img {
+  width: 80%;
+  margin: 2em;
+}
+
+.image {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+
+/*footer*/
+.paye {
+  height: 10em;
+  background-color: black;
+}
