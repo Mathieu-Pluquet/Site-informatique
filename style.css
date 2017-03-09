@@ -18,7 +18,7 @@ width: 100%;
 h1 {
   text-align: center;
   color: red;
-  
+
 }
 /*menu du header*/
 nav {
@@ -108,9 +108,11 @@ footer {
   display: inline-block;
   text-align: center;
 }
-#descri1bis {
-  margin-top: 50px;
 
+
+.photoordi, .descri3 {
+  display: inline-block;
+  margin-left: 100px;
 }
 
 .descri2 {
@@ -120,4 +122,5 @@ footer {
 
 .descri3 {
   text-align: center;
+
 }
