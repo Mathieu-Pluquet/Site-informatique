@@ -17,12 +17,13 @@ width: 100%;
 
 h1 {
   text-align: center;
+  color: red;
 }
 /*menu du header*/
 nav {
   vertical-align: middle;
   text-align: center;
-  height: 10em;
+  height: 5em;
   background-color:
   margin-top: 1%;
   border: 5px solid black;
@@ -32,9 +33,9 @@ nav {
 .menu{
   display: inline-block;
   list-style-type: none;
-  margin-top: 5%;
   font-size: 20px;
-  margin:5%;
+  margin: 2em;
+  margin-left: 7em;
 
 }
 /*section*/
